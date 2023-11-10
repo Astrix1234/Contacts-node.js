@@ -1,12 +1,16 @@
 ## Contacts - node.js
 
-https://monosnap.com/file/SO7JcgmzUenhpjC7dTkIjrgGHcZafO
+<a href="https://monosnap.com/file/SO7JcgmzUenhpjC7dTkIjrgGHcZafO" target="_blank">Screenshot:
+Displaying the Entire Contact List</a>
 
-https://monosnap.com/file/z1J2fYvrCZ2qyfLGoX1Ri3oLOcp1wp
+<a href="https://monosnap.com/file/z1J2fYvrCZ2qyfLGoX1Ri3oLOcp1wp" target="_blank">Screenshot:
+Retrieving a Contact by ID</a>
 
-https://monosnap.com/file/fl5InpcqWr4ykv7t0cCcWUQbfp2qiH
+<a href="https://monosnap.com/file/fl5InpcqWr4ykv7t0cCcWUQbfp2qiH" target="_blank">Screenshot:
+Adding a New Contact</a>
 
-https://monosnap.com/file/ZROhGKzNmWMoExrs3wpUB5k7bTzCru
+<a href="https://monosnap.com/file/ZROhGKzNmWMoExrs3wpUB5k7bTzCru" target="_blank">Screenshot:
+Removing a Contact</a>
 
 #### Display and Output the Entire Contact List as a Table:
 
